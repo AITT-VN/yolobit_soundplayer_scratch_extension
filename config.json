@@ -1,0 +1,22 @@
+{
+    "id": "YoloBitSoundPlayerExtention",
+    "extensionDisplay": {
+        "name": "gui.externalExtension.YoloBitSoundPlayerExtension.name",
+        "iconURL": "/images/soundplayer001.png",
+        "insetIconURL": "/images/soundplayer001.png",
+        "description": "gui.externalExtension.YoloBitSoundPlayerExtension.description"
+    },
+    "translate": {
+        "vi": {
+            "gui.externalExtension.YoloBitSoundPlayerExtension.name": "SoundPlayer",
+            "gui.externalExtension.YoloBitSoundPlayerExtension.description": "Mục mở rộng cho các khối lệnh module phát nhạc"
+            
+
+        },
+        "en": {
+            "gui.externalExtension.YoloBitRoboconExtension.name": "SoundPlayer",
+            "gui.externalExtension.YoloBitRoboconExtension.description": "SoundPlayer extension for Yolo:Bit"
+            
+        }
+    }
+}
